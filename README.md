@@ -30,6 +30,6 @@ My name is Caio Medeiros. I have a major in Computer Science by Universidade Fed
 
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://photos.app.goo.gl/um9iqEkMwckcLsDi9">
+  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://ibb.co/2dpCvXN">
 
 </div>
