@@ -4,9 +4,9 @@ My name is Caio Medeiros. I have a major in Computer Science by Universidade Fed
 I am now a post-graduate student, working on Capacity Planning Forecast with Machine Learning on Cloud environment.
 
 - 🔭 I’m currently working on Data Science with Python and Cloud Computing.
-- 📫 How to reach me: caio.medeiros@copin.ufcg.edu.br
+- 📫 How to reach me: caiomedeiros@copin.ufcg.edu.br
 - 😄 Pronouns: He/His
-
+- My interests are: Data Science, AI, Web Development and Technology Education.
 
 <div align="center">
   <a href="https://github.com/caiohrgm">
