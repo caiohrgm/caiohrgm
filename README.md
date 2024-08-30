@@ -8,6 +8,13 @@ I am now a post-graduate student, working on Capacity Planning Forecast with Mac
 - 😄 Pronouns: He/His
 - My interests are: Back-end Development, Data Science, AI, Web Development and Technology Education.
 
+<div align="center">
+  <a href="https://github.com/caiohrgm">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiohrgm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohrgm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 </div>
 <div style="display: inline_block"><br>
 
