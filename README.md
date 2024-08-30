@@ -1,7 +1,7 @@
 ### Hello there... 👋
 
 My name is Caio Medeiros. I have a major in Computer Science by Universidade Federal de Campina Grande, Paraiba, Brazil.
-I am now a post-graduate student, working on Capacity Planning Forecast with Machine Learning on Cloud environment.
+I am working as a Software Engineer at SENAI - IST Têxtil, in Campina Grande, PB, Brazil. I am also a master degree student, researching on Capacity Planning Forecast with Machine Learning on a Cloud environment. 
 
 - 🔭 I’m currently working on Data Science with Python and Cloud Computing.
 - 📫 How to reach me: caiomedeiros@copin.ufcg.edu.br/ caioh_m@outlook.com
