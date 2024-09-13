@@ -3,10 +3,11 @@
 My name is Caio Medeiros. I have a major in Computer Science by Universidade Federal de Campina Grande, Paraiba, Brazil.
 I am working as a Software Engineer at SENAI - IST Têxtil, in Campina Grande, PB, Brazil. I am also a master degree student, researching on Capacity Planning Forecast with Machine Learning on a Cloud environment. 
 
-- 🔭 I’m currently working on Data Science with Python and Cloud Computing.
-- 📫 How to reach me: caiomedeiros@copin.ufcg.edu.br/ caioh_m@outlook.com
+- 🧑‍💻 I’m currently working as a software engineer @ SENAI - PB, Brazil.
+- 👨‍🏫 Master´s degree candidate in Computer Science on Data Science field, @ UFCG, Brazil.
+- 📩 How to reach me: caiomedeiros@copin.ufcg.edu.br/ caioh_m@outlook.com
 - 😄 Pronouns: He/His
-- My interests are: Back-end Development, Data Science, AI, Web Development and Technology Education.
+- 😍 I really like: Back-end Development, Data Science, AI, Web Development and Education Technology.
 
 <div align="center">
   <a href="https://github.com/caiohrgm">
