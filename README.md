@@ -57,8 +57,8 @@
 
 <!-- ### Hello there... 👋
 
-My name is Caio Medeiros. I have a major in Computer Science by Universidade Federal de Campina Grande, Paraiba, Brazil.
-I am working as a Software Engineer at Soluções Digitais, SENAI - IST, in Campina Grande, PB, Brazil. I am also a master degree student, researching on Capacity Planning Forecast with Machine Learning on a Cloud environment.
+My name is Caio Medeiros. I have a major in Computer Science by Universidade Federal de Campina Grande, Brazil.
+I am working as a Software Engineer at Soluções Digitais, SENAI - IST, in Campina Grande, PB, Brazil. I am also a master´s degree candidate, researching on Capacity Planning Forecast with Machine Learning on a Cloud environment.
 
 - 🧑‍💻 I’m currently working as a software engineer @ SENAI - PB, Brazil.
 - 👨‍🏫 Master´s degree candidate in Computer Science on Data Science field, @ UFCG, Brazil.
