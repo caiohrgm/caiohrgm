@@ -10,9 +10,8 @@
 </div>
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohmedeiros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=INSPIRE&logoColor=white)](https://www.linkedin.com/in/caiohmedeiros)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caiohrgm@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=red)](mailto:caioh_m@outlook.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:caioh_m@outlook.com)
 
 
