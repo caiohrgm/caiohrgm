@@ -12,8 +12,8 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiohmedeiros) 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:caiohrgm@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-Contact-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:caioh_m@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:caiohrgm@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:caioh_m@outlook.com)
 
 ### Technology Stack
 
