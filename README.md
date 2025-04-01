@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiohmedeiros) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caiohmedeiros) 
 [![Gmail](https://img.shields.io/badge/Gmail-505050?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiohrgm@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:caioh_m@outlook.com)
 
